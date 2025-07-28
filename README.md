@@ -41,20 +41,6 @@ This is a step-by-step guide to build a basic CRUD API using Node.js, Express, a
 
 ## ✅ Step 4: Recommended Folder Structure
 
-node_crud_api/
-├── app.js <-- Entry point
-├── db.js <-- MySQL DB connection
-├── routes/
-│ ├── userRoutes.js <-- API endpoints for users
-│ └── productRoutes.js <-- API endpoints for products
-├── controllers/
-│ ├── userController.js <-- Logic for users
-│ └── productController.js
-├── models/ (optional) <-- Use for larger apps
-│ └── userModel.js
-├── package.json
-
-
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a2678464-fddb-4d2c-83b7-ff1e2b604fb8" />
 
 ---
