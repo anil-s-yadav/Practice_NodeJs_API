@@ -55,6 +55,7 @@ node_crud_api/
 ├── package.json
 
 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a2678464-fddb-4d2c-83b7-ff1e2b604fb8" />
 
 ---
 
